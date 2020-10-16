@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Clean Room",
+    "time": "12:00 pm",
+    "completed": false
+  },
+  {
+    "name": "Wash Cloths",
+    "time": "02:00 pm",
+    "completed": false
+  },
+  {
+    "name": "Buy Groceries",
+    "time": "10:00 am",
+    "completed": true
+  },
+  {
+    "name": "Cook Lunch",
+    "time": "11:00 am",
+    "completed": false
+  }
+]
